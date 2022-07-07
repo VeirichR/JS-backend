@@ -1,0 +1,8 @@
+Objetos literais sao os Objetos
+que ja tem os dados declarados, que nao
+sao instanciados, ex:
+const cliente ={
+    nome: "Renato"
+    idade: "27"
+}
+
